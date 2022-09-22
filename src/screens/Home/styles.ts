@@ -45,5 +45,10 @@ export const styles = StyleSheet.create({
     flexDirection: 'row',
     marginTop: 36,
     marginBottom: 42
+  },
+  emptyListText: {
+    color: '#6B6B6B',
+    fontWeight: 'bold',
+    fontSize: 14
   }
 })
